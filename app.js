@@ -1,1 +1,3 @@
 clear.log()
+print()()
+
